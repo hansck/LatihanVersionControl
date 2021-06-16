@@ -14,5 +14,11 @@ public class Hans {
     public Hans() {
         System.out.println("Hallo Ko");
         System.out.println("Ini Brian");
+
+        System.out.println("Hans");
+        System.out.println("Dionisius PH test new name");
+
+        System.out.println("Hans CK");
+        System.out.println("Jalan Dipati Ukur");
     }
 }
