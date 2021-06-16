@@ -13,5 +13,6 @@ package com.mycompany.latihanversioncontrol.students;
 public class Hans {
     public Hans() {
         System.out.println("Hans");
+        System.out.println("Dionisius PH");
     }
 }
