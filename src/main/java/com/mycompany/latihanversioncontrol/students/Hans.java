@@ -12,7 +12,7 @@ package com.mycompany.latihanversioncontrol.students;
  */
 public class Hans {
     public Hans() {
-        System.out.println("Yendistia Angelia Julianti");
-        System.out.println("Jalan Dwi Tunggal");
+        System.out.println("Hans CK");
+        System.out.println("Jalan Dipati Ukur");
     }
 }
