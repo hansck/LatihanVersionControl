@@ -11,6 +11,6 @@ package com.mycompany.latihanversioncontrol.students;
  */
 public class Jonathan {
     public Jonathan () {
-        System.out.println("Hi Jonathan!");
+        System.out.println("Hi Jonathan");
     }
 }
