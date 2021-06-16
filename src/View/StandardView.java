@@ -18,6 +18,7 @@ public class StandardView implements Constants{
         Duck duck = new Duck("d",2,DUCK_FOOD,ALIVE);
         
         System.out.println("suck it");
+        System.out.println("ender");
         
         dog.gender = "helicopter";
         cat.gender = "tank";
