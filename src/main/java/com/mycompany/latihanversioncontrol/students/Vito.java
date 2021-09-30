@@ -12,5 +12,7 @@ package com.mycompany.latihanversioncontrol.students;
 public class Vito {
     public static void main(String[] args) {
         System.out.println("Udah nih Ko hans ");
+        
+        System.out.println("Coba add sesuatu");
     }
 }
