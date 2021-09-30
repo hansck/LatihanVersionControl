@@ -4,5 +4,6 @@ public class Thomas {
 
     public Thomas() {
         System.out.println("Hallo aku Thomas : )");
+        
     }
 }
