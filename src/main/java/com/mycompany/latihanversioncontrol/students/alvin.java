@@ -10,5 +10,7 @@ package com.mycompany.latihanversioncontrol.students;
  * @author ASUS
  */
 public class alvin {
-    
+    public static void main(String[] args) {
+        System.out.println("alvin");
+    }
 }
