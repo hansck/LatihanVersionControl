@@ -11,6 +11,6 @@ package com.mycompany.latihanversioncontrol.students;
  */
 public class Chris {
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("Hello world");
     }
 }
