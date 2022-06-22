@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package com.mycompany.latihanversioncontrol.students;
 
 /**
  *
- * @author natanael billy
+ * @author Arvin Situmorang
  */
-public class billy {
+public class Arvin {
+
     public static void main(String[] args) {
-        System.out.println("nama");
+        System.out.println("Arvin");
     }
 }
