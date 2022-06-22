@@ -7,10 +7,11 @@ package com.mycompany.latihanversioncontrol.students;
 
 /**
  *
- * @author juand
+ * @author JONATHAN
  */
-public class Alex {
-    public static void main(String[] args) {
-        System.out.println("Helo gais...");
+public class Joa {
+
+    public void hola() {
+        System.out.println("apa bahasa inggrisnya nakal?");
     }
 }
