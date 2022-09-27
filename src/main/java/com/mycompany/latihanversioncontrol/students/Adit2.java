@@ -11,4 +11,5 @@ package com.mycompany.latihanversioncontrol.students;
  */
 public class Adit2 {
     
+    String test = "test";
 }
