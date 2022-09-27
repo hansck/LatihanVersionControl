@@ -10,5 +10,7 @@ package class2022;
  * @author RAPHAEL
  */
 public class Evan {
-    
+    public static void main(String[] args) {
+        System.out.println("Test");
+    }
 }
