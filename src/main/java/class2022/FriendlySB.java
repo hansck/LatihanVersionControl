@@ -7,11 +7,11 @@ package class2022;
 
 /**
  *
- * @author USER
+ * @author FriendlySB
  */
 public class FriendlySB {
 
-    public FriendlySB() {
+    public static void main(String[] args) {
         System.out.println("Sakatonik ABC");
     }
 
