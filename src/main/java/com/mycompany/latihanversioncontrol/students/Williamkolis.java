@@ -9,8 +9,8 @@ package com.mycompany.latihanversioncontrol.students;
  *
  * @author William
  */
-public class Williamkolis {
+public class WilliamKolis {
     public static void main(String[] args) {
-        System.out.println("WilliamKolis");
+        System.out.println("William Kolis");
     }
 }
