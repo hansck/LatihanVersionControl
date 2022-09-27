@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.latihanversioncontrol.students;
+package class2022;
 
 /**
  *
- * @author William
+ * @author Cent
  */
-public class WilliamKolis {
-    public static void main(String[] args) {
-        System.out.println("William Kolis");
-    }
+public class VincentBenedict {
+    
 }
