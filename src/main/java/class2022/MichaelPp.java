@@ -7,7 +7,7 @@ package class2022;
 
 /**
  *
- * @author rapmonz
+ * @author michael p
  */
 public class MichaelPp {
     public static void main(String[] args) {
