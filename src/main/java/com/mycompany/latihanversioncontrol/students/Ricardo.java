@@ -12,5 +12,6 @@ package com.mycompany.latihanversioncontrol.students;
 public class Ricardo {
     public Ricardo(){
         System.out.println("New World");
+        System.out.println("Halo");
     }
 }
