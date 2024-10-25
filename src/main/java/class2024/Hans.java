@@ -2,7 +2,7 @@ package class2024;
 
 public class Hans {
 
-    public HansNew2024() {
+    public Hans() {
 
         System.out.println("Hello");
     }
