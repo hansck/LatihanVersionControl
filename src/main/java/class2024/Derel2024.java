@@ -1,7 +1,7 @@
 package class2024;
 
-public class Alfons {
+public class Derel2024 {
     public static void main(String[] args) {
-        System.out.println("Halooooo");
+        System.out.println("PBO A");
     }
 }
