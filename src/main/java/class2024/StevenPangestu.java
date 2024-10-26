@@ -1,4 +1,4 @@
-package LatihanVersionControl.src.main.java.class2024;
+package class2024;
 
 public class StevenPangestu {
     public StevenPangestu() {
