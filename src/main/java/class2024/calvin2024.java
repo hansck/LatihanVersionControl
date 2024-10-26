@@ -6,7 +6,7 @@ public class calvin2024{
         System.out.println("NIM : 1123040");
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < i; j++) {
-                System.out.print("My comment :\nBoston gg parah");
+                System.out.print("My comment :\nhehe");
             }
             System.out.println();
         }
